@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+/bulid
+
+.vs
+*.vcxproj.user
+*.csv
+*.yaml
+*.bmp
+*.png
+#*.jpg
